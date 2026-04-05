@@ -7,7 +7,6 @@ This repository contains solutions to SQL problems using PySpark DataFrame API.
 - problems/easy
 - problems/medium
 - problems/hard
-
 ## Run
 
 ```bash

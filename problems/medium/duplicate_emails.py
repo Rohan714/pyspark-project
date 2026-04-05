@@ -1,3 +1,6 @@
+# LeetCode: https://leetcode.com/...
+# Concepts: groupBy, aggregation, filtering
+
 from utils.spark_session import get_spark
 from pyspark.sql.functions import count
 
